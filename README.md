@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1854-maximum-population-year](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0989-add-to-array-form-of-integer](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Simulation
 |  |
 | ------- |
