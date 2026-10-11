@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1854-maximum-population-year](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Hash Table
@@ -47,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
