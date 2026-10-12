@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0066-plus-one) |
 | [0566-reshape-the-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0566-reshape-the-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0066-plus-one) |
 | [0989-add-to-array-form-of-integer](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
