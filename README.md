@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1854-maximum-population-year](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
