@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0566-reshape-the-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0566-reshape-the-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
