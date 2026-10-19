@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0189-rotate-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0238-product-of-array-except-self) |
 | [0566-reshape-the-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0566-reshape-the-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -34,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0189-rotate-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
