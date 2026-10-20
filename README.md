@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0566-reshape-the-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
