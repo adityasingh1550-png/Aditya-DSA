@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
