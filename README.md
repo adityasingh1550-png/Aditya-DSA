@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0231-power-of-two) |
 | [0989-add-to-array-form-of-integer](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -120,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/adityasingh1550-png/Aditya-DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
